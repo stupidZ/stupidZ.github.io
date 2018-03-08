@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 3bc3c3b6df934b2487ea   #生成的clientID
-  clientSecret: d4b6b1d8d89369087dc5c5c303b3e44f6b31c25b  #同上
+  clientID: 87e200fe030ed7d37168   #生成的clientID
+  clientSecret: 4a0aad7fa38cb1f95124a3ee04346c349d7ecf2d  #同上
   repo: stupidZ.github.io    #仓库名称
   owner: stupidZ    #github用户名
   admin: stupidZ
